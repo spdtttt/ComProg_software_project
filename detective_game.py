@@ -551,7 +551,7 @@ class Game:
 
     def start(self):
         print("\n========================================")
-        print("          AI DETECTIVE GAME")
+        print("          DETECTIVE GAME")
         print("========================================")
 
         self.case.show_case_information()
